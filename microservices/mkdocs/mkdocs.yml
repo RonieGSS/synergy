@@ -1,0 +1,11 @@
+site_name: Synergy Framework
+copyright: 'copyright © Global Synergy Solutions Inc., All rights reserved.'
+theme:
+  name: 'material'
+  favicon: 'img/favicon.ico'
+  logo: 'img/gss-logo.png'
+  palette:
+    primary: indigo
+    accent: indigo
+pages:
+    - Home: index.md
